@@ -1,0 +1,26 @@
+{
+  "users": [
+    {
+      "fullName": "Dineshkumar",
+      "email": "dk@gmail.com",
+      "phoneNumber": "9685474125",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 1
+    },
+    {
+      "fullName": "kavya",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 2
+    }
+  ]
+}
