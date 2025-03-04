@@ -21,6 +21,116 @@
       "state": "California",
       "nationality": "USA",
       "id": 2
+    },
+    {
+      "fullName": "kavya",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "New York",
+      "state": "New York",
+      "nationality": "USA",
+      "id": 3
+    },
+    {
+      "fullName": "Kavya Kalyani",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "123456789",
+      "password": "123456",
+      "confirmPassword": "123456",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 4
+    },
+    {
+      "fullName": "Kavya Kalyani",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "New York",
+      "state": "New York",
+      "nationality": "USA",
+      "id": 5
+    },
+    {
+      "fullName": "Kavya Kalyani",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 6
+    },
+    {
+      "fullName": "abc",
+      "email": "anc@gmail.com",
+      "phoneNumber": "1234565522",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 7
+    },
+    {
+      "fullName": "abc",
+      "email": "vineela123@gmail.com",
+      "phoneNumber": "1234565522",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "New York",
+      "state": "New York",
+      "nationality": "USA",
+      "id": 8
+    },
+    {
+      "fullName": "abc",
+      "email": "abc@gmail.com",
+      "phoneNumber": "1234565522",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Vancouver",
+      "state": "British Columbia",
+      "nationality": "Canada",
+      "id": 9
+    },
+    {
+      "fullName": "Kavya Kalyani",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 10
+    },
+    {
+      "fullName": "Kavya Kalyani",
+      "email": "2211CS030052@mallareddyuniversity.ac.in",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "Los Angeles",
+      "state": "California",
+      "nationality": "USA",
+      "id": 11
+    },
+    {
+      "fullName": "kavya",
+      "email": "saikavyakalyanig@gmail.com",
+      "phoneNumber": "7240432525",
+      "password": "123",
+      "confirmPassword": "123",
+      "city": "New York",
+      "state": "New York",
+      "nationality": "USA",
+      "id": 12
     }
   ]
 }
